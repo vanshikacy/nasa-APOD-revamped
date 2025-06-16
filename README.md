@@ -7,7 +7,7 @@ Now reimagined with ✨ modern UI, smooth interactions, and better responsivenes
 
 ## 🔗 Live Demo
 
-Click to view my NASA APOD project!](https://vanshikacy.github.io/nasa-APOD-revamped/)
+[Click to view my NASA APOD project!](https://vanshikacy.github.io/nasa-APOD-revamped/)
 
 ---
 
