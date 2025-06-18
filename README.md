@@ -4,15 +4,9 @@ A sleek, responsive vanilla JS web app that fetches NASA’s Astronomy Picture o
 Now reimagined with ✨ modern UI, smooth interactions, and better responsiveness.  
 
 ## Live Demo
-<<<<<<< HEAD
 
 [Click to view my NASA APOD project!](link)
 
-=======
-
-[Click to view my NASA APOD project!](https://vanshikacy.github.io/nasa-APOD-revamped/)
-
->>>>>>> bb9162cf3fc8d95d67a88d71b61f3ecc19547462
 ## Features
 
 - Fetches a new, random NASA space image on click.
@@ -37,9 +31,4 @@ This was originally built when I was still learning JS.
 Now after earning my freeCodeCamp JS + Responsive Web Design certs, I came back to give it the glow-up it deserved — better logic as well as better UI.  
 Sometimes the best way to show your growth isn’t starting something new — it’s leveling up something old.
 
-<<<<<<< HEAD
-=======
----
-
->>>>>>> bb9162cf3fc8d95d67a88d71b61f3ecc19547462
 Made by [Vanshika](https://github.com/vanshikacy)  
